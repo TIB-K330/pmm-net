@@ -4,3 +4,5 @@ Offical code of *PMM-Net: Single-stage Multi-agent Trajectory Prediction with Pa
 ![Baseline comparision](https://github.com/TIB-K330/pmm-net/blob/main/eth.png)
 
 [Paper](https://arxiv.org/abs/2410.19544)
+
+PMM-Net has been accepted for publication in the RA-L.
